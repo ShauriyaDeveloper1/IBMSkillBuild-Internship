@@ -1,0 +1,20 @@
+# Large dataset files (>100MB cannot be pushed to GitHub)
+PS_20174392719_1491204439457_log.csv
+PS_20174392719_1491204439457_log.csv.zip
+*.zip
+
+# Python & Jupyter cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables & system files
+.env
+.DS_Store
+Thumbs.db
